@@ -414,6 +414,7 @@ nav ul li a:hover {
   /* NAVBAR */
   body {
     overflow-x: hidden;
+    width: 100%;
   }
 
   .menu-toggle {
