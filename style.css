@@ -449,7 +449,8 @@ nav ul li a:hover {
   .teks-home {
     display: flex;
     font-size: 43px;
-    color: #74844f;
+    text-align: center;
+    color: #dcff8c;
   }
 
   .visit a{
@@ -460,7 +461,7 @@ nav ul li a:hover {
   /* CONTENT */
   /* CONTENT 1 */
   .wrapper-content1 {
-    height: 82vh;
+    height: 100%;
   }
   .wrapper-content1 img {
     width: 350px;
@@ -474,7 +475,7 @@ nav ul li a:hover {
 
   /* CONTENT 2 */
   .wrapper-content2 {
-    height: 110%;
+    height: 100%;
   }
   
   .wrapper-content2-child {
@@ -498,9 +499,6 @@ nav ul li a:hover {
   }
 
   /* CONTENT 4 */
-  .wrapper-content4 {
-    height: 85vh;
-  }
   
   .wrapper-content4-child {
     display: flex;
@@ -524,7 +522,7 @@ nav ul li a:hover {
 
   /* CONTENT 5 */
   .wrapper-content5 {
-    height: 75vh;
+    height: 100%;
   }
   
   .wrapper-content5-child {
@@ -549,9 +547,9 @@ nav ul li a:hover {
 
   /* CONTENT 6 */
   .wrapper-content6 {
-    height: 90vh;
+    height: 100%;
   }
-  
+
   .wrapper-content6-child {
     display: flex;
     flex-direction: column;
@@ -574,8 +572,9 @@ nav ul li a:hover {
 
   /* CONTENT 7 */
   .wrapper-content7 {
-    height: 90vh;
+    height: 85vh;
   }
+
   .wrapper-content7-child img {
     width: 250px;
     height: 250px;
@@ -591,5 +590,3 @@ nav ul li a:hover {
     flex-direction: column;
   }
 }
-
-
